@@ -7,4 +7,8 @@
 Для функционирования необходимо создать приложение в дискорде -> создать в нем бота -> получить api ключ -> передать боту ключик и написать/воспользоваться стратегию обработки сообщений(см main.cpp)
 
 
+
+Репозиторием можно воспользоваться для ознакомления с api discord
+
 ![](https://sun9-35.userapi.com/s/v1/if2/zN88DaEtJv5HlAMGLDWdMNBTdpOV0rTxja3e37df92Cub7TRhHm2-o5G784oPMkRh8XqTl7wWISFCUBi2dUxKCIh.jpg?size=282x305&quality=96&type=album)
+
