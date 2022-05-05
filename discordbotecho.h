@@ -12,7 +12,7 @@ class discordBotEcho : public discordBotAbstractStrategy
 public:
     discordBotEcho(QString prefix = "",QObject *parent = nullptr);
 public slots:
-  virtual void processMessage(QString type,QString data) ;
+  virtual void processMessage(QString type,QString data) override;
 };
 
 #endif // DISCORDBOTECHO_H
