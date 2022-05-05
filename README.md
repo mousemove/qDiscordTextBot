@@ -5,7 +5,7 @@
 Используются WebSocket(https://discord.com/developers/docs/topics/gateway) + Rest Api(https://discord.com/developers/)
 
 
-Обрабатывает текстовые сообщения, использует на входе стратегию(наследуемую от discordBotAbstractStrategy)
+Обрабатывает текстовые сообщения, использует на входе стратегию(наследуемую от discordBotAbstractStrategy), обработка входящего сообщения и формирование ответа осуществляется в слоте processMessage.
 
 
 Для примера - простейшая стратегия Echo отвечающая, наверное выложу еще небольшой пример.
